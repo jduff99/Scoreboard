@@ -1,0 +1,22 @@
+C:\Users\PC\source\repos\WindowsApp1\WindowsApp1\obj\Debug\ScoreboardApp.Form1.resources
+C:\Users\PC\source\repos\WindowsApp1\WindowsApp1\obj\Debug\ScoreboardApp.Resources.resources
+C:\Users\PC\source\repos\WindowsApp1\WindowsApp1\obj\Debug\ScoreboardApp.vbproj.GenerateResource.Cache
+C:\Users\PC\source\repos\WindowsApp1\WindowsApp1\obj\Debug\ScoreboardApp.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Scoreboarde App.exe
+C:\Users\PC\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Scoreboarde App.pdb
+C:\Users\PC\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Scoreboarde App.xml
+C:\Users\PC\source\repos\WindowsApp1\WindowsApp1\obj\Debug\ScoreboardApp.vbprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Scoreboarde App.exe
+C:\Users\PC\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Scoreboarde App.xml
+C:\Users\PC\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Scoreboarde App.pdb
+D:\My Documents\Josh\Score Board\WindowsApp1\WindowsApp1\obj\Debug\ScoreboardApp.vbprojResolveAssemblyReference.cache
+D:\My Documents\Josh\Score Board\WindowsApp1\WindowsApp1\obj\Debug\ScoreboardApp.Form1.resources
+D:\My Documents\Josh\Score Board\WindowsApp1\WindowsApp1\obj\Debug\ScoreboardApp.Resources.resources
+D:\My Documents\Josh\Score Board\WindowsApp1\WindowsApp1\obj\Debug\ScoreboardApp.vbproj.GenerateResource.Cache
+D:\My Documents\Josh\Score Board\WindowsApp1\WindowsApp1\obj\Debug\ScoreboardApp.vbproj.CoreCompileInputs.cache
+D:\My Documents\Josh\Score Board\WindowsApp1\WindowsApp1\obj\Debug\Scoreboarde App.exe
+D:\My Documents\Josh\Score Board\WindowsApp1\WindowsApp1\obj\Debug\Scoreboarde App.xml
+D:\My Documents\Josh\Score Board\WindowsApp1\WindowsApp1\obj\Debug\Scoreboarde App.pdb
+D:\My Documents\Josh\Score Board\WindowsApp1\WindowsApp1\bin\Debug\Scoreboarde App.exe
+D:\My Documents\Josh\Score Board\WindowsApp1\WindowsApp1\bin\Debug\Scoreboarde App.pdb
+D:\My Documents\Josh\Score Board\WindowsApp1\WindowsApp1\bin\Debug\Scoreboarde App.xml
