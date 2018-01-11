@@ -263,51 +263,6 @@ void lightLEDperiod(int digit, int num, int SegLEDs){
 }
 
 //LOOP
-void recvWithEndMarker() {
-    static byte ndx = 0;
-    char endMarker = '\n';
-    char rc;
-    
-    while (Serial.available() > 0 && newData == false) {
-        rc = Serial.read();
-
-        if (rc != endMarker) {
-            SerialData[ndx] = rc;
-            ndx++;
-            if (ndx >= numChars) {
-                ndx = numChars - 1;
-            }
-        }
-        else {
-            SerialData[ndx] = '\0'; // terminate the string
-            ndx = 0;
-            newData = true;
-        }
-    }
-      //convert Char Array to Int array
-  int ipos = 0;
-  // Get the first token from the string
-  char *tok = strtok(SerialData, ",");
-  // Keep going until we run out of tokens
-  while (tok) {
-    // Don't overflow your target array
-    if (ipos < 8) {
-        // Convert to integer and store it
-        count[ipos++] = atoi(tok);
-    }
-    // Get the next token from the string - note the use of NULL
-    // instead of the string in this case - that tells it to carry
-    // on from where it left off.
-    tok = strtok(NULL, ",");
-  }
-}
-
-void showNewData() {
-    if (newData == true) {
-        newData = false;
-    }
-}
-
 void loop() {
   //colon in red
   colors[315] = rgb_color(255, 0, 0);
