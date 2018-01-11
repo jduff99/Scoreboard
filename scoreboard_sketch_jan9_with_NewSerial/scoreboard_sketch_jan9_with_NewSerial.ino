@@ -267,19 +267,17 @@ void loop() {
   //colon in red
   colors[315] = rgb_color(255, 0, 0);
   colors[316] = rgb_color(255, 0, 0);
-  
-  //recvWithEndMarker();
-  //showNewData();
+
   while (Serial.available() > 0) {
     if (z < 8){
       char temp = Serial.read();
-      count[z] = atoi(temp);
+      count[z] = (int)temp - 48;
       z++;
     }
     else{
       z = 0;
       char temp = Serial.read();
-      count[z] = atoi(temp);
+      count[z] = (int)temp - 48;
     }
   }
 
